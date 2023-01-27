@@ -1,4 +1,7 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=mericgenc92&show_icons=true">
+
+## Hey, I'm Arda Genç! 
+##### Game Developer / Game Designer
 
 <!--
 **ardagenc/ardagenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
