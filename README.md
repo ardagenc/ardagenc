@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=mericgenc92&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ardagenc&show_icons=true">
 
 ## Hey, I'm Arda Genç! 
 ##### Game Developer / Game Designer
