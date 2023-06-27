@@ -2,6 +2,9 @@
 
 ## Hey, I'm Arda Genç! 
 ##### 🎮 Game Developer / Game Designer
+##### https://studiogenc.com
+##### My Game is now on App Store!
+##### apps.apple.com/tr/app/katana-dash/id6450600081
 
 <!--
 **ardagenc/ardagenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
